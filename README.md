@@ -1,18 +1,18 @@
 # Hi, I'm Parveen Soni 👋
 
-**👨‍💻 Senior Technical Lead at [RxLogix](https://www.rxlogix.com)**  
-**🏠 Location:** Noida  
+**👨‍💻 Architect at [RxLogix](https://www.rxlogix.com)**  
+**🏠 Location:** India Remote  
 
 ## About Me
 
-I am a passionate coder with a keen interest in JavaScript and a growing proficiency in Machine Learning/AI and Python. I thrive on collaborating on projects that involve:
+I am a passionate coder with a keen interest in Pharmacovigilance and a growing proficiency in Machine Learning/AI and Java/JS/Python. I thrive on collaborating on projects that involve:
 
-- **Languages:** JavaScript, Java, HTML, CSS, jQuery
-- **Frameworks & Libraries:** DataTable, Grails, jQuery
+- **Languages:** JavaScript, Java, HTML, CSS, jQuery, Groovy, Dart, Python, C++, C
+- **Frameworks & Libraries:** DataTable, Grails, Spring, Spring Boot, NumPy, Pandas, LLM, Cloud, Solution Architecture, Mobile Apps
 
 ## Interests
 
-- **Coding:** Especially in JavaScript
+- **Coding:** Especially in JavaScript/Architecture
 - **🌱 Learning:** Machine Learning/AI and Python
 - **🤝 Collaboration:** Open to working on repositories that utilize JS, Java, HTML, CSS, jQuery, and DataTable, Any healthcare related repository
 
